@@ -1,8 +1,8 @@
 # 目前的工作內容和進度
 
-1. `把範例串進去`
+1. 把範例串進去: Jean (completed)
 2. embedding：Vanessa (completed)
-3. `chain of thought 或樹`
+3. `chain of thought 或樹`: Jean - 有稍微嘗試Chain of Thought，但還沒調到答案正確
 4. 挑選題目：(completed)
 5. 根據挑選的題目去看需要什麼資料（我自己是覺得可以挑一個報告書一個不是 pdf 的去展現他在資料上面的 flexibility) 並把資料串進去：Vanessa (completed)
 6. `開始測題目 做使用說明`
